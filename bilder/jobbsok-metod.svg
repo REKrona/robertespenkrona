@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="980" viewBox="0 0 720 980" role="img" aria-labelledby="title desc">
+  <title id="title">2000-talets nya metoder för arbetssökande</title>
+  <desc id="desc">Stiliserat bokomslag för jobbsöksmetoden</desc>
+  <rect width="720" height="980" rx="44" fill="#dfe8ee"/>
+  <rect x="54" y="64" width="612" height="852" rx="34" fill="#fffdf9" opacity=".86"/>
+  <path d="M164 546h392M164 450h392M164 354h392" stroke="#9b5f3a" stroke-width="20" stroke-linecap="round" opacity=".35"/>
+  <path d="M196 654l70 70 180-192" fill="none" stroke="#9b5f3a" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="82" y="166" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#25313a">2000-talets</text>
+  <text x="82" y="226" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#25313a">jobbsök</text>
+  <text x="84" y="790" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#9b5f3a">Robert Espenkrona</text>
+</svg>
